@@ -1,0 +1,74 @@
+{
+	"todolistitems": [
+		{
+			"id": 1,
+			"title": "Buy groceries",
+			"description": "Milk, Bread, Eggs, Butter",
+			"dueDate": "2024-08-01",
+			"completed": false
+		},
+		{
+			"id": 2,
+			"title": "Complete project report",
+			"description": "Finish the final draft of the project report",
+			"dueDate": "2024-08-03",
+			"completed": false
+		},
+		{
+			"id": 3,
+			"title": "Schedule dentist appointment",
+			"description": "Call the dentist to schedule an appointment for a checkup",
+			"dueDate": "2024-08-05",
+			"completed": false
+		},
+		{
+			"id": 4,
+			"title": "Pick up dry cleaning",
+			"description": "Collect dry cleaning from the shop",
+			"dueDate": "2024-08-02",
+			"completed": false
+		},
+		{
+			"id": 5,
+			"title": "Plan birthday party",
+			"description": "Organize a birthday party for a friend",
+			"dueDate": "2024-08-10",
+			"completed": false
+		},
+		{
+			"id": 6,
+			"title": "Book flight tickets",
+			"description": "Book tickets for the upcoming vacation",
+			"dueDate": "2024-08-04",
+			"completed": true
+		},
+		{
+			"id": 7,
+			"title": "Water the plants",
+			"description": "Water all indoor and outdoor plants",
+			"dueDate": "2024-08-01",
+			"completed": true
+		},
+		{
+			"id": 8,
+			"title": "Renew gym membership",
+			"description": "Renew the annual gym membership online",
+			"dueDate": "2024-08-07",
+			"completed": false
+		},
+		{
+			"id": 9,
+			"title": "Clean the garage",
+			"description": "Organize and clean the garage space",
+			"dueDate": "2024-08-06",
+			"completed": false
+		},
+		{
+			"id": 10,
+			"title": "Attend team meeting",
+			"description": "Participate in the weekly team meeting",
+			"dueDate": "2024-08-02",
+			"completed": true
+		}
+	]
+}
